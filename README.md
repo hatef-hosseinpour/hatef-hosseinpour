@@ -44,8 +44,10 @@ Here are some ideas to get you started:
 <br>
 💬 +989931481782 </br> </br>
 <p align="left">
-    <a href="https://www.linkedin.com/in/hatef-hossein-pour-434993226"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a> 
-    <a href="mailto:hatefhp1@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+    <a href="https://www.linkedin.com/in/hatef-hossein-pour-434993226"><img alt="Linkedin profile" src="https://img.icons8.com/nolan/50/linkedin.png" title="Linkedin" /></a> 
+    <a href="mailto:hatefhp1@gmail.com"><img alt="Gmail" src="https://img.icons8.com/nolan/50/gmail.png" title="Email"/></a>
+<a href="https://telegram.me/Hatef_Hosseinpour"><img alt="Telegram" src="https://img.icons8.com/nolan/50/telegram-app.png" title="Telegram"/></a>
+<a href="https://www.instagram.com/hatef_hosseinpour/"><img alt="Instagram" src="https://img.icons8.com/nolan/64/instagram-new.png" width=50 height=50 title="Instagram"/></a>
 </p>
 <hr \>
 <!-- <p align="center">
