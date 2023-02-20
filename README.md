@@ -1,47 +1,56 @@
-***********************************
-### Hi there 👋
+<!-- ![GitHub](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove) -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Hatef Hosseinpour from [Iran](https://en.wikipedia.org/wiki/Iran)
-- 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology(Bsc.CSIT).
-- 🌱 I’m currently learning Full-Stack Development, 3D modeling, ML and IOT.
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Web, 3D, Ml & IOT Technologies.
+### Hi there 👋 I'm Hatef Hosseinpour From [Iran](https://en.wikipedia.org/wiki/Iran),
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
+I have a bachelor's degree in computer engineering and now I am studying for a master's degree in artificial intelligence at [University Of Mazandaran](https://www.google.com/search?gs_ssp=eJzj4tTP1TdIS04qyzNg9JIozcssSy0qziypVMhPU8hNrErMS0ksSswDAO5hDUU&q=university%20of%20mazandaran&rlz=1C1GCEA_enIR1044IR1044&oq=university&aqs=chrome.1.69i57j46i39j0i67j46i67j46i512l5j0i271.5673j0j7&sourceid=chrome&ie=UTF-8).
 
-<p align="center">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 
+<!-- - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially. -->
+- 🔭 I’m currently working on Generative Adversarial Networks.
+- :bulb: I'm interested in all things data: **Machine Learning and Data Science**
+<!-- - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
+- 🌱 I’m currently pursuing Machine learning -->
+
+### My skills include
+
+<p align="left">
+<!-- 	<img title="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
+	<img title="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
+	<img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" /> -->
+	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
+<!-- 	<img title="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />
+	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
+	<img title="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
+	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" /> -->
 </p>
 
+<!--
 
-**I am Into ,**
+Here are some ideas to get you started:
 
-**Web, 3D, Ml & IOT**
-<br />
-
-
-![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=anishghimire603&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br /> 
-
-- 📫 How to reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--<a href = "https://www.facebook.com/Anish.Ghimire603?ref=bookmarks"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;-->
-<a href = "https://www.instagram.com/hatef_hosseinpour/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/hatef-hossein-pour-434993226/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-<!--<a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>-->
-
-*************
-
-#### Thank You 🙏🏼
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+    
+   ### How to reach me:
+   
+<br>
+💬 +989931481782 </br> </br>
+<p align="left">
+    <a href="https://www.linkedin.com/in/hatef-hossein-pour-434993226"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a> 
+    <a href="mailto:hatefhp1@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+</p>
+<hr \>
+<!-- <p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+</p>        -->
+ 
