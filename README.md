@@ -13,7 +13,7 @@ I have a bachelor's degree in computer engineering and now I am studying for a m
 
 <p align="left">
 	<img title="Python" src="https://img.icons8.com/color/48/null/python--v1.png" width="40" height="40" />
-	<img title="C Sharp" src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png" width="40" height="40" />
+	<img title="Django" width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/>
 	<img title="JS" src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40" />
 </p>
 
