@@ -4,8 +4,8 @@ I have a bachelor's degree in computer engineering and now I am studying for a m
 
 
 
-- 🔭 I’m currently working on Generative Adversarial Networks.
-- :bulb: I'm interested in all things data: **Machine Learning and Data Science**
+- 🔭 I’m currently working on **Django Restful api**.
+- :bulb: I'm interested in all things data: **Machine Learning and Genrative adversarial network**
 <!-- - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing Machine learning -->
 
