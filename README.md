@@ -5,7 +5,7 @@ I have a bachelor's degree in computer engineering and now I am studying for a m
 
 
 - 🔭 I’m currently working on **Django Restful api**.
-- :bulb: I'm interested in all things data: **Machine Learning and Genrative adversarial network**
+- :bulb: I'm interested in all things data: **Machine Learning and Image processing**
 <!-- - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing Machine learning -->
 
@@ -15,6 +15,7 @@ I have a bachelor's degree in computer engineering and now I am studying for a m
 	<img title="Python" src="https://img.icons8.com/color/48/null/python--v1.png" width="40" height="40" />
 	<img title="Django" width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/>
 	<img title="JS" src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40" />
+	<img title="Postgresql" width="40" height="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 </p>
 
 <!--
