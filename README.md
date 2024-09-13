@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 	<a href="tel:+989931481782"><img alt="+989931481782" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.png" width=45 height=45 title="+989931481782" /></a> 
-    <a href="https://www.linkedin.com/in/hatef-hossein-pour-434993226"><img alt="Linkedin profile" src="https://img.icons8.com/fluency/48/null/linkedin.png" width=45 height=45 title="Linkedin" /></a> 
+    <a href="https://www.linkedin.com/in/hatef-hosseinpour-434993226/"><img alt="Linkedin profile" src="https://img.icons8.com/fluency/48/null/linkedin.png" width=45 height=45 title="Linkedin" /></a> 
     <a href="mailto:hatefhp1@gmail.com"><img alt="Gmail" src="https://img.icons8.com/color/48/null/gmail-new.png" width=48 height=48 title="Email"/></a>
 <a href="https://telegram.me/Hatef_Hosseinpour"><img alt="Telegram" src="https://img.icons8.com/fluency/48/null/telegram-app.png" width=45 height=45 title="Telegram"/></a>
 <a href="https://www.instagram.com/hatef_hosseinpour/"><img alt="Instagram" src="https://img.icons8.com/cute-clipart/64/null/instagram-new.png" width=50 height=50 title="Instagram"/></a>
