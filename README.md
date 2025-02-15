@@ -4,8 +4,8 @@ I have a bachelor's degree in computer engineering and now I am studying for a m
 
 
 
-- 🔭 I’m currently working on **Django Restful api**.
-- :bulb: I'm interested in all things data: **Machine Learning and Image processing**
+- 🔭 I’m currently working on **Django IOT APP**.
+- :bulb: I'm interested in all things data: **Image processing and natural language processing**
 <!-- - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing Machine learning -->
 
@@ -17,6 +17,7 @@ I have a bachelor's degree in computer engineering and now I am studying for a m
 	<img title="JS" src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40" />
 	<img title="Postgresql" width="40" height="40" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 	<img title="flask" width="50" height="50" src="https://img.icons8.com/ios-filled/50/flask.png" alt="flask"/>
+	<img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
 </p>
 
 <!--
