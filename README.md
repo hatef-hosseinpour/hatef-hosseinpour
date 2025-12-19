@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Hatef Hosseinpour <!--From [Iran](https://en.wikipedia.org/wiki/Iran),-->
 
-I have a bachelor's degree in computer engineering and now I am studying for a master's degree in artificial intelligence at [University Of Mazandaran](https://www.google.com/search?gs_ssp=eJzj4tTP1TdIS04qyzNg9JIozcssSy0qziypVMhPU8hNrErMS0ksSswDAO5hDUU&q=university%20of%20mazandaran&rlz=1C1GCEA_enIR1044IR1044&oq=university&aqs=chrome.1.69i57j46i39j0i67j46i67j46i512l5j0i271.5673j0j7&sourceid=chrome&ie=UTF-8).
+I have a bachelor's degree in computer engineering and master's degree in artificial intelligence at [University Of Mazandaran](https://www.google.com/search?gs_ssp=eJzj4tTP1TdIS04qyzNg9JIozcssSy0qziypVMhPU8hNrErMS0ksSswDAO5hDUU&q=university%20of%20mazandaran&rlz=1C1GCEA_enIR1044IR1044&oq=university&aqs=chrome.1.69i57j46i39j0i67j46i67j46i512l5j0i271.5673j0j7&sourceid=chrome&ie=UTF-8).
 
 
 
